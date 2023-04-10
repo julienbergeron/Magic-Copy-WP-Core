@@ -6,6 +6,8 @@ Copier le dossier *_magic_copy* sur le premier niveau du dossier web sur le serv
 
 ### Utilisation
 
+Après une connection SSH dans le terminal : 
+
 #### 1. Copier et faire un backup des modifications
 
 ```
