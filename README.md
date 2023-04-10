@@ -29,4 +29,8 @@ bash _remettre_fichier_a_leur_place.sh
 
 **Fichier script 2 :** *_remettre_fichier_a_leur_place.sh* &#x2192; Remettre les fichiers à leur place à partir de la liste dans *_fichiers_modif.txt*.
 
-**Fichier qui contient les paths :** *fichiers_modif.txt* &#x2192; Liste des chemins (path) de tous les fichiers qui ont une copie de travail, un par ligne. 
+**Fichier qui contient les paths :** *fichiers_modif.txt* &#x2192; Liste des chemins (path) de tous les fichiers qui ont une copie de travail, un par ligne.
+
+>Le programme est auto-config et utilise le «path» absolu du dossier web du serveur (public_html)
+
+>À la première utilisation, le programme indique dossier manquant, parce qu'il ne peut faire un backup avant une première utilisation du script. 
