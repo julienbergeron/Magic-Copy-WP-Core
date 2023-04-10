@@ -4,17 +4,20 @@
 
 Copier le dossier *_magic_copy* sur le premier niveau du dossier web sur le serveur. Généralement c'est le dossier *public_html*.
 
-### Copier et faire un backup des modifications
+### Utilisation
+
+#### 1. Copier et faire un backup des modifications
 
 ```
 bash _trouver_fichier_copier.sh
 ```
 
-### Restaurer ou remettre les fichiers à leur place
+#### 2. Restaurer ou remettre les fichiers à leur place
 
 ```
 bash _remettre_fichier_a_leur_place.sh
 ```
+
 
 ## Les fichiers et dossier du programme
 
